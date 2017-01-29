@@ -1,4 +1,4 @@
-# AssylBank
+# A$$ylBank
 A MatLab program that simulates an ATM
 ## Description
 Course Project for Intro to Engineering Computation for Summer 2015
